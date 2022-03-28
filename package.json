@@ -1,0 +1,19 @@
+{
+  "name": "react_pjt",
+  "version": "1.0.0",
+  "description": "React & Express 를 이용한 웹 애플리케이션 개발하기",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zero2-in/react-express-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zero2-in/react-express-project/issues"
+  },
+  "homepage": "https://github.com/zero2-in/react-express-project#readme"
+}
